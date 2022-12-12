@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BasicRecyclerTemplate</string>
+    <string name="profile_image_description">Employee\'s profile image</string>
+    <string name="employee_name">Name: %1$s</string>
+    <string name="employee_salary">Salary: %1$s</string>
+    <string name="employee_age">Age: %1$s</string>
+</resources>
